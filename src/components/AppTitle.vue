@@ -3,14 +3,16 @@
 </script>
 
 <template>
-  <div>
     <h1>La mia prima app con Vite!</h1>
-  </div>
 </template>
 
 <style scoped>
-h1 {
-  font-weight: 500;
+h1 { 
+  text-align: center; /* centers the heading */
+  color: #DDD;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
 }
 
 </style>
